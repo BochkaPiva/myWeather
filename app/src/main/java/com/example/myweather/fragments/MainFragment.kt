@@ -78,7 +78,7 @@ class MainFragment : Fragment() {
     }
 
 //    override fun onLocationChanged(location: Location) {
-//        binding.zalupa.text = location.latitude.toString()
+//        binding.example_coords.text = location.latitude.toString()
 //    }
 
     companion object {
